@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="15px" viewBox="0 0 202 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
+    <title>Wave</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet" transform="translate(-199.000000, -251.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="Intro" transform="translate(0.000000, -1.000000)">
+                <g id="Wave" transform="translate(200.000000, 254.000000)">
+                    <path d="M0,0.00303106082 C10.6281946,-0.211180585 15.510894,11.0000001 25.5,11 C34.4496761,10.9999999 40.040856,-0.211180571 51,0.00303106082" id="Path-114"></path>
+                    <path d="M50,0.00303106082 C60.4197986,-0.211180585 65.2067588,11.0000001 75,11 C83.7741923,10.9999999 89.2557412,-0.211180571 100,0.00303106082" id="Path-114"></path>
+                    <path d="M100,0.00303106082 C110.628195,-0.211180585 115.510894,11.0000001 125.5,11 C134.449676,10.9999999 140.040856,-0.211180571 151,0.00303106082" id="Path-114"></path>
+                    <path d="M150,0.00303106082 C160.419799,-0.211180585 165.206759,11.0000001 175,11 C183.774192,10.9999999 189.255741,-0.211180571 200,0.00303106082" id="Path-114"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
